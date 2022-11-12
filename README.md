@@ -4,7 +4,7 @@
 * Assuming you already have Python installed, Run the install.bat file and wait for the command prompt to close.
 * After that, run main.py and you should be good to go!
 
-# This was not made for eductional purposes
+## This was not made for eductional purposes
 Please use this as maliciously as possible.
 <br>
 If you can, nuke an entire server with this. Thank you very much.
