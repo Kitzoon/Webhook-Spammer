@@ -5,7 +5,6 @@
 * After that, run main.py and you should be good to go!
 
 <br>
-<br>
 
 # This was not made for eductional purposes
 Please use this as maliciously as possible.
